@@ -22,8 +22,19 @@ Well-developed communication, teamwork and leadership skills. Experience working
 
 *Edinburgh College 2019 – 2021*
 
-## Projects
+## Project Summaries 
 
+**Algo Master App** *(University Honours Project)* - Android mobile application. A gamified e-learning application designed to gather data used for research into the impact of gamification in educational software.
+
+**Forgotten Vale** *(College Final Graded Unit)* -
+
+**Azolla GP** -
+
+**Mage Madness** -
+
+**DM Helper** -
+
+**Napier Bank Messaging** -
 
 <!--
 **dv-dev-6000/dv-dev-6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

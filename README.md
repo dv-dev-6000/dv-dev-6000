@@ -14,7 +14,7 @@ Well-developed communication, teamwork and leadership skills. Experience working
 
 ### Education
 
->**Software Engineering BEng (Hons)** on track for 1st class honours degree
+>**Software Engineering BEng (Hons) 1st class
 >
 >*Edinburgh Napier University 2021- 2024*
 

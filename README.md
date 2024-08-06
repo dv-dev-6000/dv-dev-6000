@@ -1,5 +1,5 @@
 ## About Me
-BEng Software Engineering graduate with a strong foundation in software development and programming principles across multiple platforms.
+BEng Software Engineering graduate and game developer with a strong foundation in software development and programming principles across multiple platforms.
 
 Experienced in object-oriented programming, designing interfaces and developing, testing, and debugging code. Quick to learn and master new technologies, successful working as part of a team or in self-directed settings.
 

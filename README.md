@@ -1,16 +1,12 @@
 ## About Me
-BEng Software Engineering graduate and game developer with a strong foundation in software development and programming principles across multiple platforms.
-
-Experienced in object-oriented programming, designing interfaces and developing, testing, and debugging code. Quick to learn and master new technologies, successful working as part of a team or in self-directed settings.
-
-Well-developed communication, teamwork and leadership skills. Experience working in agile teams with a strong ability to prioritise workloads under pressure.
+Software Engineer, Game Developer & General Tech Enthusiast! 
 
 ### Skill Summary
 | | | | |
 | :----------: | :-----------: | :----------: | :-----------: |
-| C# | C++ | Java | SQL |
-| Git | Agile | UML | Unity |
-| Unreal Engine | Software Testing| Android Studio | OO Development |
+| C# | C++ | Git | SQL |
+| Agile | Desktop | Mobile | Web |
+| Game Engines | Software Testing | Software Architecture | Azure DevOps |
 
 ### Education
 
@@ -22,7 +18,7 @@ Well-developed communication, teamwork and leadership skills. Experience working
 >
 >*Edinburgh College 2019 – 2021*
 
-## Project Summaries 
+## Public Projects 
 
 >**Algo Master App** *(University Honours Project)* - A gamified e-learning application for mobile, designed as part of a research study into the impact of gamification in educational software. Developed with Android Studio and Java.
 
